@@ -12,6 +12,15 @@ print(num_list[9])
 # Extracting 2
 print(num_list[2])
 
+# Range 0 to 3
+print(num_list[0:4])
+
+# Range 4 - 9
+print(num_list[4:10])
+
+# Range 2 - 7
+print(num_list[2:8])
+
 
 
 
