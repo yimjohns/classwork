@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>49c66624-9cae-466b-b625-f40695ae7f6b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>calculations.py</StartupFile>
+    <StartupFile>listextraction.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ClassWork.py" />
+    <Compile Include="listextraction.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="simpleinterest.py">
       <SubType>Code</SubType>
     </Compile>
