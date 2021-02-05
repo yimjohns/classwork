@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>49c66624-9cae-466b-b625-f40695ae7f6b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>recursivefactorial.py</StartupFile>
+    <StartupFile>fibonacci.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,10 +32,16 @@
     <Compile Include="factorial.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="fibonacci.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="listextraction.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="recursivefactorial.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="recursivefibonacci.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="simpleinterest.py">
