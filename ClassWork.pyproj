@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>49c66624-9cae-466b-b625-f40695ae7f6b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>factorial.py</StartupFile>
+    <StartupFile>recursivefactorial.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -33,6 +33,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="listextraction.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="recursivefactorial.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="simpleinterest.py">
